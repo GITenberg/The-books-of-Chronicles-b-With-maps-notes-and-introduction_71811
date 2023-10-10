@@ -1,0 +1,28 @@
+_repo: The-books-of-Chronicles-b-With-maps-notes-and-introduction_71811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elmslie, W. A. L. (William Alexander Leslie)
+    alias: Elmslie, William Alexander Leslie
+    gutenberg_agent_id: '50858'
+    url: http://www.gutenberg.org/2009/agents/50858
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71811'
+language: en
+pgterms:marc904: https://archive.org/details/booksofchronicle00elmsuoft
+pgterms:marc905: 20171230232325elmslie
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Richard Hulse, MFR and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aCambridge :$bUniversity Press, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The books of Chronicles : $b With maps, notes and introduction'
+url: http://www.gutenberg.org/ebooks/71811
